@@ -6,11 +6,11 @@ This program allows users to manage student records through a menu-driven interf
 
 ## Features
 
-* -Add new students
-* -Display all student records
-* -Search student by ID
-* -Remove student from the system
-* -Simple menu-driven interface
+* Add new students
+* Display all student records
+* Search student by ID
+* Remove student from the system
+* Simple menu-driven interface
 
 ---
 
