@@ -63,7 +63,14 @@ int main() {
                 cout << "Student ID already exists.\n";
             }
             else {
-                students[count].input();
+                students[count].id = newId;
+
+                cout << "Enter Name: ";
+                cin >> students[count].name;
+
+                cout << "Enter Age: ";
+                cin >> students[count].age;
+
                 count++;
                 cout << "Student added successfully.\n";
 
